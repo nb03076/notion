@@ -25,3 +25,13 @@
 [메모리 allocation](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5%20allocation%20b0238cd5277342e7bbb3cfb39f997f63.md)
 
 [DMA](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/DMA%2015280edd1a0e445abb1bd9238ad9ab4d.md)
+
+[regmap](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/regmap%20c87ea3d0029843fbad0adf1f50229004.md)
+
+[커널IRQ 프레임워크](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/%E1%84%8F%E1%85%A5%E1%84%82%E1%85%A5%E1%86%AFIRQ%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%20b778d11219354d489bc4226ecfb5e9c7.md)
+
+[GPIO subsystem](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/GPIO%20subsystem%209510100485bb48b5beab3ba78fef5cf2.md)
+
+[input 장치](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/input%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5%206fb77ab7cc34431dba5eef3b12ca6b32.md)
+
+[IIO](Linux%20Device%20Driver%20Development%202nd%2072dd8bfc434440cc94badba00ce34389/IIO%200132bea5465c4ac38262b3ede3acceea.md)
